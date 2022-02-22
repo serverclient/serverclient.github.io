@@ -1,0 +1,3 @@
+[submodule "reference/aaa"]
+	path = reference/aaa
+	url = https://github.com/serverclient/aaa.git
